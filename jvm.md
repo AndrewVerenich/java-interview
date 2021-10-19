@@ -235,4 +235,10 @@ JIT-компилятор устраняет недостатки интерпр�
 - https://www.developer.com/java/data/understanding-the-jvm-architecture.html
 - https://dzone.com/articles/understanding-jvm-internals
 
+## Мои ссылки:
+- https://habr.com/ru/company/mailru/blog/559794/
+- https://habr.com/ru/post/549176/
+- https://habr.com/ru/company/otus/blog/553996/
+- https://www.youtube.com/watch?v=-fcj6EL9rc4
+
 [к оглавлению](#jvm)
